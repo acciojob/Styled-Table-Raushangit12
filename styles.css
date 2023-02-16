@@ -1,1 +1,9 @@
 /* your code */
+.heading{
+background-color:blue;	
+	color:white;
+}
+#sec,.fourth{
+	background-color:grey;
+	color:white;
+}
